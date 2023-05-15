@@ -1,7 +1,9 @@
-<picture>
-  <source srcset="https://serenity-js.org/images/serenity-js-logo-for-dark-backgrounds.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://serenity-js.org/images/serenity-js-logo-for-light-backgrounds.svg" alt="Serenity/JS" width="384" style="margin-bottom:1em" />
-</picture>
+<h1>
+  <picture>
+    <source srcset="https://serenity-js.org/images/serenity-js-logo-for-dark-backgrounds.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://serenity-js.org/images/serenity-js-logo-for-light-backgrounds.svg" alt="Serenity/JS" width="384" />
+  </picture>
+</h1>
 
 [**Serenity/JS**](https://serenity-js.org/?pk_campaign=readme&pk_source=github) is an innovative **test automation framework** designed to help you create
 **high-quality, business-focused test scenarios** that interact with **any interface of your system**
