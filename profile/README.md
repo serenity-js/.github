@@ -1,6 +1,6 @@
 <picture>
   <source srcset="https://serenity-js.org/images/serenity-js-logo-for-dark-backgrounds.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://serenity-js.org/images/serenity-js-logo-for-light-backgrounds.svg" alt="Serenity/JS" width="384" />
+  <img src="https://serenity-js.org/images/serenity-js-logo-for-light-backgrounds.svg" alt="Serenity/JS" width="384" style="margin-bottom:1em" />
 </picture>
 
 [**Serenity/JS**](https://serenity-js.org/?pk_campaign=readme&pk_source=github) is an innovative **test automation framework** designed to help you create
