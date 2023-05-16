@@ -1,9 +1,18 @@
+[![NPM Version](https://badge.fury.io/js/%40serenity-js%2Fcore.svg)](https://badge.fury.io/js/%40serenity-js%2Fcore)
+[![Downloads](https://img.shields.io/npm/dm/@serenity-js/core.svg)](https://npm-stat.com/charts.html?package=@serenity-js/core)
+[![Contributors](https://img.shields.io/github/contributors/serenity-js/serenity-js.svg)](https://github.com/serenity-js/serenity-js/graphs/contributors)
+[![CodeFactor](https://www.codefactor.io/repository/github/serenity-js/serenity-js/badge)](https://www.codefactor.io/repository/github/serenity-js/serenity-js)
+[![Coverage Status](https://coveralls.io/repos/github/serenity-js/serenity-js/badge.svg?branch=main)](https://coveralls.io/github/serenity-js/serenity-js?branch=main)
+[![GitHub stars](https://img.shields.io/github/stars/serenity-js/serenity-js)](https://github.com/serenity-js/serenity-js)
+
 <h1>
   <picture>
     <source srcset="https://serenity-js.org/images/serenity-js-logo-for-dark-backgrounds.svg" media="(prefers-color-scheme: dark)">
     <img src="https://serenity-js.org/images/serenity-js-logo-for-light-backgrounds.svg" alt="Serenity/JS" width="384" />
   </picture>
 </h1>
+
+[Homepage](https://serenity-js.org/?pk_campaign=readme&pk_source=github) • [Developer Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github) • [API Reference](https://serenity-js.org/api/core/?pk_campaign=readme&pk_source=github) • [Source Code](https://github.com/serenity-js/serenity-js/) • [Changelog](https://serenity-js.org/changelog/?pk_campaign=readme&pk_source=github) • [Blog](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github) • [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-do-i)
 
 [**Serenity/JS**](https://serenity-js.org/?pk_campaign=readme&pk_source=github) is an innovative **test automation framework** designed to help you create
 **high-quality, business-focused test scenarios** that interact with **any interface of your system**
@@ -12,7 +21,7 @@ and produce **comprehensive test reports** that **build trust** between delivery
 Serenity/JS can help you with:
 - [**Test reporting**](https://serenity-js.org/handbook/reporting?pk_campaign=readme&pk_source=github) - Serenity/JS
   integrates with popular test runners, including [Cucumber.js](https://serenity-js.org/handbook/test-runners/cucumber/?pk_campaign=readme&pk_source=github),
-  [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github), 
+  [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github),
   [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?pk_campaign=readme&pk_source=github),
   [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github),
   and [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/`?pk_campaign=readme&pk_source=github`),
