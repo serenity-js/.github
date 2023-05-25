@@ -56,6 +56,7 @@ Have a question? Got stuck? Serenity/JS Community is here to help!
 New features, tutorials, and demos are coming soon!
 Follow [Serenity/JS on LinkedIn](https://www.linkedin.com/company/serenity-js),
 subscribe to [Serenity/JS channel on YouTube](https://www.youtube.com/@serenity-js) and join the [Serenity/JS Community Chat](https://matrix.to/#/#serenity-js:gitter.im) to stay up to date!
+
 Please also make sure to star ⭐️ [Serenity/JS on GitHub](https://github.com/serenity-js/serenity-js) to help others discover the framework!
 
 [![Follow Serenity/JS on LinkedIn](https://img.shields.io/badge/Follow-Serenity%2FJS%20-0077B5?logo=linkedin)](https://www.linkedin.com/company/serenity-js)
@@ -65,7 +66,7 @@ Please also make sure to star ⭐️ [Serenity/JS on GitHub](https://github.com/
 
 ## 💛 Support Serenity/JS
 
-If you appreciate all the effort that goes into making sophisticated tools easy to work with, please support our work and become a Serenity/JS GitHub Sponsor today!
+If you appreciate all the effort that goes into making sophisticated tools easy to work with, please [support our work](https://github.com/sponsors/serenity-js) and become a Serenity/JS GitHub Sponsor today!
 
 As a thank you, you'll also gain access to [Serenity/JS Playbooks](https://github.com/serenity-js/playbooks) and get to vote on the Next Big Thing for Serenity/JS!
 
