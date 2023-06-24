@@ -33,7 +33,7 @@ Serenity/JS can help you with:
   [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github),
   [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?pk_campaign=readme&pk_source=github),
   [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github),
-  and [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/`?pk_campaign=readme&pk_source=github`),
+  and [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/`?pk_campaign=readme&pk_source=github),
   to help you produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation) of your system.
 - [**Test design**](https://serenity-js.org/handbook/design/) - Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) APIs enable you
   to create multi-actor test scenarios that capture your **domain vocabulary**, model your **business workflows**, and help you write **high-quality test automation code** you can reuse across projects and teams.
