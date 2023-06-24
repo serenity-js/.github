@@ -1,11 +1,13 @@
 [Serenity/JS Website](https://serenity-js.org/?pk_campaign=readme&pk_source=github)
-• [Web Testing Tutorial](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/)
-• [Developer Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github)
-• [API Reference](https://serenity-js.org/api/core/?pk_campaign=readme&pk_source=github)
-• [Source Code](https://github.com/serenity-js/serenity-js/)
+• [Tutorial](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/)
+• [Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github)
+• [API Docs](https://serenity-js.org/api/core/?pk_campaign=readme&pk_source=github)
+• [Code](https://github.com/serenity-js/serenity-js/)
+• [Issues](https://github.com/serenity-js/serenity-js/issues)
+• [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-do-i)
+• [Community Chat](https://matrix.to/#/#serenity-js:gitter.im)
 • [Changelog](https://serenity-js.org/changelog/?pk_campaign=readme&pk_source=github)
 • [Blog](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github)
-• [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-do-i)
 
 <h1>
   <picture>
