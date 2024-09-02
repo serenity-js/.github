@@ -2,7 +2,7 @@
 • [Tutorial](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/)
 • [Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github)
 • [Community](https://serenity-js.org/community/?pk_campaign=readme&pk_source=github)
-• [API Docs](https://serenity-js.org/api/core/?pk_campaign=readme&pk_source=github)
+• [API Docs](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github)
 • [Code](https://github.com/serenity-js/serenity-js/)
 • [Issues](https://github.com/serenity-js/serenity-js/issues)
 • [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-to)
