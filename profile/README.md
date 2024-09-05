@@ -7,7 +7,7 @@
 • [Issues](https://github.com/serenity-js/serenity-js/issues)
 • [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-to)
 • [Community Chat](https://matrix.to/#/#serenity-js:gitter.im)
-• [Changelog](https://serenity-js.org/changelog/?pk_campaign=readme&pk_source=github)
+• [Releases](https://serenity-js.org/releases/?pk_campaign=readme&pk_source=github)
 • [News](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github)
 
 <h1>
