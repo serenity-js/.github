@@ -30,11 +30,13 @@ and produce **comprehensive test reports** that **build trust** between delivery
 
 Serenity/JS can help you with:
 - [**Test reporting**](https://serenity-js.org/handbook/reporting?pk_campaign=readme&pk_source=github) - Serenity/JS
-  integrates with popular test runners, including [Cucumber.js](https://serenity-js.org/handbook/test-runners/cucumber/?pk_campaign=readme&pk_source=github),
+  integrates with popular test runners, including
+  [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/?pk_campaign=readme&pk_source=github),
+  [WebdriverIO](https://serenity-js.org/handbook/test-runners/webdriverio/?pk_campaign=readme&pk_source=github),
+  [Cucumber.js](https://serenity-js.org/handbook/test-runners/cucumber/?pk_campaign=readme&pk_source=github),
   [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github),
   [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?pk_campaign=readme&pk_source=github),
-  [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github),
-  and [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/?pk_campaign=readme&pk_source=github),
+  and even [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github),
   to help you produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation) of your system.
 - [**Test design**](https://serenity-js.org/handbook/design/) - Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) APIs enable you
   to create multi-actor test scenarios that capture your **domain vocabulary**, model your **business workflows**, and help you write **high-quality test automation code** you can reuse across projects and teams.
@@ -45,7 +47,7 @@ Serenity/JS can help you with:
 
 Serenity/JS offers plenty of resources to help you get started with the framework:
 
-- [**15-minute tutorial**  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github) - learn the basics of web testing with Serenity/JS right here in your browser, no local installation required
+- [**15-minute tutorial**  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github) - learn the basics of web testing with Serenity/JS and Playwright Test right here in your browser, no local installation required
 - [Serenity/JS Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github) - comprehensive introduction to Serenity/JS
 - [Serenity/JS Project Templates](https://serenity-js.org/handbook/getting-started/project-templates/?pk_campaign=readme&pk_source=github) - boilerplate Serenity/JS projects and a starting point for your own automation framework
 - [API documentation](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github) - API documentation and usage examples for all the Serenity/JS modules
