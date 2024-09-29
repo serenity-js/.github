@@ -28,20 +28,19 @@
 **high-quality, business-focused test scenarios** that interact with **any interface of your system**
 and produce **comprehensive test reports** that **build trust** between delivery teams and the business.
 
-Serenity/JS can help you with:
-- [**Test reporting**](https://serenity-js.org/handbook/reporting?pk_campaign=readme&pk_source=github) - Serenity/JS
-  integrates with popular test runners, including
+## 💡 Key Features
+
+- [**Comprehensive test reporting**](https://serenity-js.org/handbook/reporting?pk_campaign=readme&pk_source=github) - Supports popular test runners, including
   [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/?pk_campaign=readme&pk_source=github),
   [WebdriverIO](https://serenity-js.org/handbook/test-runners/webdriverio/?pk_campaign=readme&pk_source=github),
   [Cucumber.js](https://serenity-js.org/handbook/test-runners/cucumber/?pk_campaign=readme&pk_source=github),
   [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github),
   [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?pk_campaign=readme&pk_source=github),
-  and even [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github),
-  to help you produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation) of your system.
-- [**Test design**](https://serenity-js.org/handbook/design/) - Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) APIs enable you
-  to create multi-actor test scenarios that capture your **domain vocabulary**, model your **business workflows**, and help you write **high-quality test automation code** you can reuse across projects and teams.
-- [**Test integration**](https://serenity-js.org/handbook/integration/?pk_campaign=readme&pk_source=github) - Serenity/JS
-  works with web, mobile, and HTTP/REST interfaces. Thanks to the [modular architecture](https://serenity-js.org/handbook/about/architecture/?pk_campaign=readme&pk_source=github) of the framework, you can also extend it to work with anything a Node.js program can talk to.
+  and [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github).
+  Serenity/JS helps you to progressively enhance your test automation code base to produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation).
+- [**Advanced test design**](https://serenity-js.org/handbook/design/) - Use the Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) 
+  to create multi-actor test scenarios and high-quality, reusable test code that models your **business workflows**.
+- [**Flexible integration**](https://serenity-js.org/handbook/integration/?pk_campaign=readme&pk_source=github) - Serenity/JS supports web, mobile and HTTP/REST interfaces thanks to its [modular architecture](https://serenity-js.org/handbook/about/architecture/?pk_campaign=readme&pk_source=github). You can also [extend the framework](https://serenity-js.org/api/core/class/Ability/?pk_campaign=readme&pk_source=github) to integrate it with anything a Node.js program can talk to.
 
 ## 👨‍🏫 Learn Serenity/JS
 
