@@ -46,7 +46,7 @@ and produce **comprehensive test reports** that **build trust** between delivery
 
 Serenity/JS offers plenty of resources to help you get started with the framework:
 
-- [**15-minute tutorial**  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github) - learn the basics of web testing with Serenity/JS and Playwright Test right here in your browser, no local installation required
+- **[15-minute tutorial  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github)** - learn the basics of web testing with Serenity/JS and Playwright Test right here in your browser, no local installation required
 - [Serenity/JS Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github) - comprehensive introduction to Serenity/JS
 - [Serenity/JS Project Templates](https://serenity-js.org/handbook/getting-started/project-templates/?pk_campaign=readme&pk_source=github) - boilerplate Serenity/JS projects and a starting point for your own automation framework
 - [API documentation](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github) - API documentation and usage examples for all the Serenity/JS modules
@@ -57,18 +57,18 @@ Serenity/JS offers plenty of resources to help you get started with the framewor
 
 Have a question? Got stuck? Serenity/JS Community is here to help!
 
-- [Serenity/JS blog and announcements](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github) - the place to learn about new features and events
-- [Serenity/JS Community chat](https://matrix.to/#/#serenity-js:gitter.im) - meet other Serenity/JS developers and maintainers
-- [Serenity/JS issue tracker](https://github.com/serenity-js/serenity-js/issues) - report bugs and suggest new features
-- [Serenity/JS Q'n'A on GitHub](https://github.com/orgs/serenity-js/discussions/categories/how-do-i) - find answers to your test automation questions
+- **[Blog & Announcements](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github)**: Stay up-to-date with new features and events.
+- **[Community Chat](https://matrix.to/#/#serenity-js:gitter.im)**: Connect with fellow Serenity/JS developers and maintainers.
+- **[Issue Tracker](https://github.com/serenity-js/serenity-js/issues)**: Report bugs and suggest features.
+- **[Q'n'A on GitHub](https://github.com/orgs/serenity-js/discussions/categories/how-to)**: Ask and answer questions about Serenity/JS.
 
 ## 📣 Stay up to date
 
-New features, tutorials, and demos are coming soon!
-Follow [Serenity/JS on LinkedIn](https://www.linkedin.com/company/serenity-js),
-subscribe to [Serenity/JS channel on YouTube](https://www.youtube.com/@serenity-js) and join the [Serenity/JS Community Chat](https://matrix.to/#/#serenity-js:gitter.im) to stay up to date!
+- **[Follow Serenity/JS on LinkedIn](https://www.linkedin.com/company/serenity-js)**
+- **[Subscribe on YouTube](https://www.youtube.com/@serenity-js)**
+- **[Join the Community Chat](https://matrix.to/#/#serenity-js:gitter.im)**
 
-Please also make sure to star ⭐️ [Serenity/JS on GitHub](https://github.com/serenity-js/serenity-js) to help others discover the framework!
+Please also star ⭐️ [Serenity/JS on GitHub](https://github.com/serenity-js/serenity-js) to help others discover the framework!
 
 [![Follow Serenity/JS on LinkedIn](https://img.shields.io/badge/Follow-Serenity%2FJS%20-0077B5?logo=linkedin)](https://www.linkedin.com/company/serenity-js)
 [![Watch Serenity/JS on YouTube](https://img.shields.io/badge/Watch-@serenity--js-E62117?logo=youtube)](https://www.youtube.com/@serenity-js)
@@ -77,8 +77,11 @@ Please also make sure to star ⭐️ [Serenity/JS on GitHub](https://github.com/
 
 ## 💛 Support Serenity/JS
 
-If you appreciate all the effort that goes into making sophisticated tools easy to work with, please [support our work](https://github.com/sponsors/serenity-js) and become a Serenity/JS GitHub Sponsor today!
+If you value Serenity/JS, support our work and [become a GitHub Sponsor](https://github.com/sponsors/serenity-js) today!
 
-As a thank you, you'll also gain access to [Serenity/JS Playbooks](https://github.com/serenity-js/playbooks) and get to vote on the Next Big Thing for Serenity/JS!
+As a sponsor, you will:
+- Gain access to exclusive **[Serenity/JS Playbooks](https://github.com/serenity-js/playbooks)**
+- Get priority support for your questions on the [GitHub Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-to)
+- Influence the roadmap of the project
 
 [![GitHub Sponsors](https://img.shields.io/badge/Support%20@serenity%2FJS-703EC8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/serenity-js)
