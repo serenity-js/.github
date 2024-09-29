@@ -40,7 +40,7 @@ and produce **comprehensive test reports** that **build trust** between delivery
   Serenity/JS helps you to progressively enhance your test automation code base to produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation).
 - [**Advanced test design**](https://serenity-js.org/handbook/design/) - Use the Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) 
   to create multi-actor test scenarios and high-quality, reusable test code that models your **business workflows**.
-- [**Flexible integration**](https://serenity-js.org/handbook/integration/?pk_campaign=readme&pk_source=github) - Serenity/JS supports web, mobile and HTTP/REST interfaces thanks to its [modular architecture](https://serenity-js.org/handbook/about/architecture/?pk_campaign=readme&pk_source=github). You can also [extend the framework](https://serenity-js.org/api/core/class/Ability/?pk_campaign=readme&pk_source=github) to integrate it with anything a Node.js program can talk to.
+- [**Flexible integration**](https://serenity-js.org/handbook/integration/?pk_campaign=readme&pk_source=github) - Serenity/JS supports web, mobile and HTTP/REST interfaces thanks to its [modular architecture](https://serenity-js.org/handbook/about/architecture/?pk_campaign=readme&pk_source=github). You can also [write custom "abilities"](https://serenity-js.org/api/core/class/Ability/?pk_campaign=readme&pk_source=github) to extend the framework and integrate it with anything a Node.js program can talk to.
 
 ## 👨‍🏫 Learn Serenity/JS
 
