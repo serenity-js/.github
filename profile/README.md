@@ -48,7 +48,7 @@ Serenity/JS offers plenty of resources to help you get started with the framewor
 
 - **[15-minute tutorial  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github)** - learn the basics of web testing with Serenity/JS and Playwright Test right here in your browser, no local installation required
 - [Serenity/JS Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github) - comprehensive introduction to Serenity/JS
-- [Serenity/JS Project Templates](https://serenity-js.org/handbook/getting-started/project-templates/?pk_campaign=readme&pk_source=github) - boilerplate Serenity/JS projects and a starting point for your own automation framework
+- [Serenity/JS Project Templates](https://serenity-js.org/handbook/project-templates/?pk_campaign=readme&pk_source=github) - boilerplate Serenity/JS projects and a starting point for your own automation framework
 - [API documentation](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github) - API documentation and usage examples for all the Serenity/JS modules
 - [Serenity/JS Examples](https://github.com/serenity-js/serenity-js/tree/main/examples) - reference implementations that demonstrate using Serenity/JS in different contexts
 - [Serenity/JS Playbooks](https://github.com/serenity-js/playbooks) - advanced tutorials and integration patterns available to [Serenity/JS GitHub Sponsors](https://github.com/sponsors/serenity-js)
