@@ -1,14 +1,10 @@
-[Serenity/JS Website](https://serenity-js.org/?pk_campaign=readme&pk_source=github)
-• [Tutorial](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/)
-• [Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github)
-• [Community](https://serenity-js.org/community/?pk_campaign=readme&pk_source=github)
-• [API Docs](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github)
-• [Code](https://github.com/serenity-js/serenity-js/)
-• [Issues](https://github.com/serenity-js/serenity-js/issues)
-• [Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-to)
-• [Community Chat](https://matrix.to/#/#serenity-js:gitter.im)
-• [Releases](https://serenity-js.org/releases/?pk_campaign=readme&pk_source=github)
-• [News](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github)
+[Website](https://serenity-js.org?ref=github-org-readme)
+· [Getting Started](https://serenity-js.org/getting-started/?ref=github-org-readme)
+· [Handbook](https://serenity-js.org/handbook/?ref=github-org-readme)
+· [API Docs](https://serenity-js.org/api/?ref=github-org-readme)
+· [Community](https://serenity-js.org/community/?ref=github-org-readme)
+· [Releases](https://serenity-js.org/releases/?ref=github-org-readme)
+· [Blog](https://serenity-js.org/blog/?ref=github-org-readme)
 
 <h1>
   <picture>
@@ -17,72 +13,60 @@
   </picture>
 </h1>
 
-[![NPM Version](https://badge.fury.io/js/%40serenity-js%2Fcore.svg)](https://badge.fury.io/js/%40serenity-js%2Fcore)
-[![Downloads](https://img.shields.io/npm/dm/@serenity-js/core.svg)](https://npm-stat.com/charts.html?package=@serenity-js/core)
-[![Contributors](https://img.shields.io/github/contributors/serenity-js/serenity-js.svg)](https://github.com/serenity-js/serenity-js/graphs/contributors)
-[![CodeFactor](https://www.codefactor.io/repository/github/serenity-js/serenity-js/badge)](https://www.codefactor.io/repository/github/serenity-js/serenity-js)
-[![Coverage Status](https://coveralls.io/repos/github/serenity-js/serenity-js/badge.svg?branch=main)](https://coveralls.io/github/serenity-js/serenity-js?branch=main)
-[![GitHub stars](https://img.shields.io/github/stars/serenity-js/serenity-js)](https://github.com/serenity-js/serenity-js)
+[![NPM Version](https://img.shields.io/npm/v/@serenity-js/core.svg)](https://www.npmjs.com/package/@serenity-js/core)
+[![Downloads](https://img.shields.io/npm/dm/@serenity-js/core.svg)](https://www.npmjs.com/package/@serenity-js/core)
+[![Build Status](https://github.com/serenity-js/serenity-js/actions/workflows/main.yaml/badge.svg)](https://github.com/serenity-js/serenity-js/actions/workflows/main.yaml)
+[![Maintainability](https://qlty.sh/gh/serenity-js/projects/serenity-js/maintainability.svg)](https://qlty.sh/gh/serenity-js/projects/serenity-js)
+[![Code Coverage](https://qlty.sh/gh/serenity-js/projects/serenity-js/coverage.svg)](https://qlty.sh/gh/serenity-js/projects/serenity-js)
+[![GitHub Stars](https://img.shields.io/github/stars/serenity-js/serenity-js?style=flat-square)](https://github.com/serenity-js/serenity-js/stargazers)
 
-[**Serenity/JS**](https://serenity-js.org/?pk_campaign=readme&pk_source=github) is an innovative **test automation framework** designed to help you create
-**high-quality, business-focused test scenarios** that interact with **any interface of your system**
-and produce **comprehensive test reports** that **build trust** between delivery teams and the business.
+**Serenity/JS** is a TypeScript-native test automation framework that gives your [Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme), [WebdriverIO](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme), or [Cucumber](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme) test suite the architecture it needs to scale. 
+
+[→ Why Serenity/JS?](https://serenity-js.org/getting-started/?ref=github-org-readme)
+
+### Works with
+
+[Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme) · [WebdriverIO](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme) · [Cucumber](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme) · [Electron](https://serenity-js.org/getting-started/electron/?ref=github-org-readme) · [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?ref=github-org-readme) · [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?ref=github-org-readme)
+
+---
 
 ## 💡 Key Features
 
-- [**Comprehensive test reporting**](https://serenity-js.org/handbook/reporting?pk_campaign=readme&pk_source=github) - Supports popular test runners, including
-  [Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/?pk_campaign=readme&pk_source=github),
-  [WebdriverIO](https://serenity-js.org/handbook/test-runners/webdriverio/?pk_campaign=readme&pk_source=github),
-  [Cucumber.js](https://serenity-js.org/handbook/test-runners/cucumber/?pk_campaign=readme&pk_source=github),
-  [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?pk_campaign=readme&pk_source=github),
-  [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?pk_campaign=readme&pk_source=github),
-  and [Protractor](https://serenity-js.org/handbook/test-runners/protractor/?pk_campaign=readme&pk_source=github).
-  Serenity/JS helps you to progressively enhance your test automation code base to produce **in-depth**, **illustrated test execution reports** and [**living documentation**](https://serenity-bdd.github.io/docs/reporting/living_documentation).
-- [**Advanced test design**](https://serenity-js.org/handbook/design/) - Use the Serenity/JS [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/?pk_campaign=readme&pk_source=github) 
-  to create multi-actor test scenarios and high-quality, reusable test code that models your **business workflows**.
-- [**Flexible integration**](https://serenity-js.org/handbook/integration/?pk_campaign=readme&pk_source=github) - Serenity/JS supports web, mobile, and HTTP/REST interfaces thanks to its [modular architecture](https://serenity-js.org/handbook/about/architecture/?pk_campaign=readme&pk_source=github). You can also [write custom "abilities"](https://serenity-js.org/api/core/class/Ability/?pk_campaign=readme&pk_source=github) to extend the framework and integrate it with anything a Node.js program can talk to.
+- [**Screenplay Pattern**](https://serenity-js.org/handbook/design/screenplay-pattern/?ref=github-org-readme) — composable, reusable Tasks that separate _what_ from _how_
+- [**Structured reporting**](https://serenity-js.org/handbook/reporting/?ref=github-org-readme) — in-depth execution reports, screenshots, and living documentation
+- [**Multi-actor support**](https://serenity-js.org/handbook/test-runners/playwright-test/multi-actor-scenarios/?ref=github-org-readme) — model real-world multi-user workflows
+- [**Blended testing**](https://serenity-js.org/handbook/web-testing/blended-testing/?ref=github-org-readme) — APIs for setup, UI only where it matters
+- [**Tool portability**](https://serenity-js.org/handbook/architecture/?ref=github-org-readme) — switch test runners and integration tools without rewriting tests
+
+[→ Get started with Serenity/JS and Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme)
+
+---
 
 ## 👨‍🏫 Learn Serenity/JS
 
-Serenity/JS offers plenty of resources to help you get started with the framework:
+- [**15-minute tutorial** 🚀](https://serenity-js.org/handbook/tutorials/your-first-web-scenario/?ref=github-org-readme) — build your first Screenplay test in the browser
+- [**Project Templates**](https://serenity-js.org/getting-started/project-templates/?ref=github-org-readme) — pre-configured starters for Playwright, WebdriverIO, Cucumber
+- [**API Documentation**](https://serenity-js.org/api/?ref=github-org-readme) — reference for all `@serenity-js/*` modules
+- [**Releases & Compatibility**](https://serenity-js.org/releases/?ref=github-org-readme) — changelog and compatibility matrix
 
-- **[15-minute tutorial  🚀️](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/?pk_campaign=readme&pk_source=github)** - learn the basics of web testing with Serenity/JS and Playwright Test right here in your browser, no local installation required
-- [Serenity/JS Handbook](https://serenity-js.org/handbook/?pk_campaign=readme&pk_source=github) - comprehensive introduction to Serenity/JS
-- [Serenity/JS with Playwright Test](https://serenity-js.org/handbook/test-runners/playwright-test/?pk_campaign=readme&pk_source=github) - deep dive into using Serenity/JS with Playwright Test
-- [Serenity/JS Project Templates](https://serenity-js.org/handbook/project-templates/?pk_campaign=readme&pk_source=github) - boilerplate Serenity/JS projects and a starting point for your own automation framework
-- [API documentation](https://serenity-js.org/api/?pk_campaign=readme&pk_source=github) - API documentation and usage examples for all the Serenity/JS modules
-- [Serenity/JS Examples](https://github.com/serenity-js/serenity-js/tree/main/examples) - reference implementations that demonstrate using Serenity/JS in different contexts
-- [Serenity/JS Playbooks](https://github.com/serenity-js/playbooks) - advanced tutorials and integration patterns available to [Serenity/JS GitHub Sponsors](https://github.com/sponsors/serenity-js)
+---
 
-## 🤝 Join the Community
+## 🤝 Community
 
-Have a question? Got stuck? Serenity/JS Community is here to help!
+- [**GitHub Discussions**](https://github.com/orgs/serenity-js/discussions) — Q&A and feature proposals
+- [**Community Chat**](https://matrix.to/#/#serenity-js:gitter.im) — meet other Serenity/JS developers
+- [**Issue Tracker**](https://github.com/serenity-js/serenity-js/issues) — report bugs and suggest features
+- [**LinkedIn**](https://www.linkedin.com/company/serenity-js) 
+- [**YouTube**](https://www.youtube.com/@serenity-js)
 
-- **[Blog & Announcements](https://serenity-js.org/blog/?pk_campaign=readme&pk_source=github)**: Stay up-to-date with new features and events.
-- **[Community Chat](https://matrix.to/#/#serenity-js:gitter.im)**: Connect with fellow Serenity/JS developers and maintainers.
-- **[Issue Tracker](https://github.com/serenity-js/serenity-js/issues)**: Report bugs and suggest features.
-- **[Q'n'A on GitHub](https://github.com/orgs/serenity-js/discussions/categories/how-to)**: Ask and answer questions about Serenity/JS.
+If Serenity/JS is helping your team, please ⭐️ [**star the repo**](https://github.com/serenity-js/serenity-js) to help others discover it!
 
-## 📣 Stay up to date
 
-- **[Follow Serenity/JS on LinkedIn](https://www.linkedin.com/company/serenity-js)**
-- **[Subscribe on YouTube](https://www.youtube.com/@serenity-js)**
-- **[Join the Community Chat](https://matrix.to/#/#serenity-js:gitter.im)**
-
-Please also star ⭐️ [Serenity/JS on GitHub](https://github.com/serenity-js/serenity-js) to help others discover the framework!
-
-[![Follow Serenity/JS on LinkedIn](https://img.shields.io/badge/Follow-Serenity%2FJS%20-0077B5?logo=linkedin)](https://www.linkedin.com/company/serenity-js)
-[![Watch Serenity/JS on YouTube](https://img.shields.io/badge/Watch-@serenity--js-E62117?logo=youtube)](https://www.youtube.com/@serenity-js)
-[![Join Serenity/JS Community Chat](https://img.shields.io/badge/Chat-Serenity%2FJS%20Community-FBD30B?logo=matrix)](https://matrix.to/#/#serenity-js:gitter.im)
-[![GitHub stars](https://img.shields.io/github/stars/serenity-js/serenity-js?label=Serenity%2FJS&logo=github&style=badge)](https://github.com/serenity-js/serenity-js)
+---
 
 ## 💛 Support Serenity/JS
 
-If you value Serenity/JS, support our work and [become a GitHub Sponsor](https://github.com/sponsors/serenity-js) today!
-
-As a sponsor, you will:
-- Gain access to exclusive **[Serenity/JS Playbooks](https://github.com/serenity-js/playbooks)**
-- Get priority support for your questions on the [GitHub Q'n'A](https://github.com/orgs/serenity-js/discussions/categories/how-to)
-- Influence the roadmap of the project
+- [**GitHub Sponsors**](https://github.com/sponsors/serenity-js) — help fund ongoing development
+- [**Commercial support**](https://www.linkedin.com/in/janmolak/) — training, consulting, and implementation help — contact Jan Molak
 
 [![GitHub Sponsors](https://img.shields.io/badge/Support%20@serenity%2FJS-703EC8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/serenity-js)
