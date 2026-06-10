@@ -20,13 +20,26 @@
 [![Code Coverage](https://qlty.sh/gh/serenity-js/projects/serenity-js/coverage.svg)](https://qlty.sh/gh/serenity-js/projects/serenity-js)
 [![GitHub Stars](https://img.shields.io/github/stars/serenity-js/serenity-js?style=flat-square)](https://github.com/serenity-js/serenity-js/stargazers)
 
-**Serenity/JS** is a TypeScript-native test automation framework that gives your [Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme), [WebdriverIO](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme), or [Cucumber](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme) test suite the architecture it needs to scale. 
+**Serenity/JS** is a TypeScript-native test automation framework that gives your [Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme), [WebdriverIO](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme), or [Cucumber](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme) test suite the architecture it needs to scale.
 
 [→ Why Serenity/JS?](https://serenity-js.org/getting-started/?ref=github-org-readme)
 
 ### Works with
 
 [Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme) · [WebdriverIO](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme) · [Cucumber](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme) · [Electron](https://serenity-js.org/getting-started/electron/?ref=github-org-readme) · [Mocha](https://serenity-js.org/handbook/test-runners/mocha/?ref=github-org-readme) · [Jasmine](https://serenity-js.org/handbook/test-runners/jasmine/?ref=github-org-readme)
+
+---
+
+## 🚀 Quick Start
+
+Add Serenity/JS to your existing project:
+
+- [**Playwright Test**](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme)
+- [**WebdriverIO**](https://serenity-js.org/getting-started/webdriverio/?ref=github-org-readme)
+- [**Cucumber**](https://serenity-js.org/getting-started/cucumber/?ref=github-org-readme)
+- [**Electron**](https://serenity-js.org/getting-started/electron/?ref=github-org-readme)
+
+Or start from a **[project template](https://serenity-js.org/getting-started/project-templates/?ref=github-org-readme)** — pre-configured and ready to run.
 
 ---
 
@@ -37,8 +50,6 @@
 - [**Multi-actor support**](https://serenity-js.org/handbook/test-runners/playwright-test/multi-actor-scenarios/?ref=github-org-readme) — model real-world multi-user workflows
 - [**Blended testing**](https://serenity-js.org/handbook/web-testing/blended-testing/?ref=github-org-readme) — APIs for setup, UI only where it matters
 - [**Tool portability**](https://serenity-js.org/handbook/architecture/?ref=github-org-readme) — switch test runners and integration tools without rewriting tests
-
-[→ Get started with Serenity/JS and Playwright Test](https://serenity-js.org/getting-started/playwright/?ref=github-org-readme)
 
 ---
 
@@ -56,11 +67,10 @@
 - [**GitHub Discussions**](https://github.com/orgs/serenity-js/discussions) — Q&A and feature proposals
 - [**Community Chat**](https://matrix.to/#/#serenity-js:gitter.im) — meet other Serenity/JS developers
 - [**Issue Tracker**](https://github.com/serenity-js/serenity-js/issues) — report bugs and suggest features
-- [**LinkedIn**](https://www.linkedin.com/company/serenity-js) 
+- [**LinkedIn**](https://www.linkedin.com/company/serenity-js)
 - [**YouTube**](https://www.youtube.com/@serenity-js)
 
 If Serenity/JS is helping your team, please ⭐️ [**star the repo**](https://github.com/serenity-js/serenity-js) to help others discover it!
-
 
 ---
 
